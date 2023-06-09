@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Revive My Memory</string>
+    <string name="login">Login</string>
+    <string name="open_nav"> Open Navigation Drawer</string>
+    <string name="close_nav"> Close Navigation Drawer</string>
+
+
+    <string name="forgetpassword">Forget password ?</string>
+    <string name="new_user_signup">If you don\'t have account sign up</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_email_address_associated_with_your_account">Enter Your Email Address Associated With Your Account.</string>
+    <string name="send">Send</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="patient_email">Patient Email</string>
+    <string name="ssn">SSN</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="birth_of_date">Birth Of Date</string>
+    <string name="register">Register</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="choose_doctor">Choose a doctor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
